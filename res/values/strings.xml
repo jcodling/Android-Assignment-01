@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment01</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="blue_water_bridge">Blue Water Bridge</string>
+    <string name="chimo">Chimo</string>
+    <string name="bowfin">USS Bowfin</string>
+    <string name="montreal">Chalet du Mont Royal</string>
+
+</resources>
