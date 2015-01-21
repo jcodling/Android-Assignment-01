@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="blue_water_bridge_text">Du pont Blue Water</string>
+    <string name="chimo_text">Chimo l\'ours polaire</string>
+    <string name="bowfin_text">USS Bowfin</string>
+    <string name="montreal_text">Chalet du Mont Royal</string>
+
+</resources>

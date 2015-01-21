@@ -14,7 +14,7 @@
         android:id="@+id/imageView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/chimo" />
+        android:src="@drawable/chimo" android:contentDescription="@string/chimo_text"/>
 
     <TextView
         android:id="@+id/textView1"
@@ -26,7 +26,7 @@
         android:id="@+id/imageView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/blue_water_bridge" />
+        android:src="@drawable/blue_water_bridge" android:contentDescription="@string/blue_water_bridge_text"/>
 
     <TextView
         android:id="@+id/textView2"
@@ -38,6 +38,7 @@
         android:id="@+id/imageView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:contentDescription="@string/montreal_text"
         android:src="@drawable/montreal" />
 
     <TextView
@@ -50,6 +51,7 @@
         android:id="@+id/imageView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:contentDescription="@string/bowfin_text"
         android:src="@drawable/ussbowfin" />
 
     <TextView
